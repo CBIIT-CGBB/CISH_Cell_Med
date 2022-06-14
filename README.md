@@ -3,7 +3,7 @@ single cell matrix data from 10x genomics for the manuscript "Internal checkpoin
 
 [Tumor](Tumor): seven tumor samples
 
-Knockout: twelve knockout and control samples
+[Knockout](Knockout): twelve knockout and control samples
 
 For more information about the data, please contact the corresponing authors: 
 Douglas Palmer, palmerdc33@gmail.com; 
