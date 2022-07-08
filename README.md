@@ -5,6 +5,10 @@ single cell matrix data from 10x genomics for the manuscript "Internal checkpoin
 
 [Knockout](Knockout): twelve knockout and control samples
 
+[bulk_RNA](Bulk RNA): twelve knockout and control samples
+
+[codes](Codes): the codes were used in the data analysis
+
 For more information about the data, please contact the corresponing authors: 
 Douglas Palmer, palmerdc33@gmail.com; 
 Beau R Webber, webb0178@umn.edu; 
